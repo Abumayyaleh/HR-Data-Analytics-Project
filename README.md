@@ -16,6 +16,8 @@
 | Talent & Training | ![Talent & Training](images/talent_training.png) |
 | HR Action Plan | ![HR Action Plan](images/hr_action_plan.png) |
 
+> Export each Power BI page as PNG (File → Export → Export to PNG) and place files in `images/`. GitHub renders them inline.
+
 ---
 
 ## Key Findings
@@ -128,8 +130,8 @@ hr_analytics_project/
 │   └── 002_clean_hrdata.ipynb   # Cleaning: standardization, normalization, export
 │
 ├── sql/
-│   ├── 001_CREATE_IMPORT_VALIDATE.SQL   # Schema, COPY, FK, indexes, 12 validation checks
-│   └── 002_HR_BUSINESS_ANALYSIS.SQL     # 16 business queries across 7 analytical sections
+│   ├── 01_CREATE_IMPORT_VALIDATE.SQL   # Schema, COPY, FK, indexes, 12 validation checks
+│   └── 02_HR_BUSINESS_ANALYSIS.SQL     # 16 business queries across 7 analytical sections
 │
 ├── dashboard/
 │   └── HR_Analytics_Dashboard.pbix
@@ -410,20 +412,20 @@ Update `RAW_DIR` and `PROJECT_DIR` at the top. Outputs 5 CSV reports to `data/pr
 
 **Step 2 — Run the cleaning notebook**
 ```
-notebooks/002_clean_hrdata.ipynb
+notebooks/002_clean_hr_data.ipynb
 ```
 Update `RAW_DIR` and `PROJECT_DIR`. Outputs 10 clean CSVs to `data/clean/`. Check the pay_frequency verification print — all groups should show similar median `annual_salary_usd` (~$33K–$50K).
 
 **Step 3 — Create the database and import**
 ```sql
 -- Run in pgAdmin, Valentina Studio, or psql
-001_CREATE_IMPORT_VALIDATE.SQL
+01_CREATE_IMPORT_VALIDATE.SQL
 ```
 Update the `COPY` paths to match your `data/clean/` directory. Run all 12 validation checks in Section 6 — confirm 0 duplicate PKs and 0 FK violations before proceeding.
 
 **Step 4 — Run business analysis**
 ```sql
-002_HR_BUSINESS_ANALYSIS.SQL
+02_HR_BUSINESS_ANALYSIS.SQL
 ```
 Run all 16 queries against the `silver` schema. Read each query's insight comment alongside the results.
 
@@ -451,9 +453,9 @@ Connect to your local PostgreSQL `silver` schema. Refresh all data. All 5 pages 
 | File | Description |
 |---|---|
 | `001_data_quality_profile.ipynb` | Profiling notebook — 5 structured report outputs |
-| `002_clean_hr_data.ipynb` | Cleaning notebook — pay frequency normalization, 10 clean CSVs |
-| `001_CREATE_IMPORT_VALIDATE.SQL` | Schema DDL, COPY import, FK constraints, 17 indexes, 12 validation checks |
-| `002_HR_BUSINESS_ANALYSIS.SQL` | 16 business queries across 7 sections — advanced SQL directly on Silver |
+| `002_clean_hrdata.ipynb` | Cleaning notebook — pay frequency normalization, 10 clean CSVs |
+| `01_CREATE_IMPORT_VALIDATE.SQL` | Schema DDL, COPY import, FK constraints, 17 indexes, 12 validation checks |
+| `02_HR_BUSINESS_ANALYSIS.SQL` | 16 business queries across 7 sections — advanced SQL directly on Silver |
 | `HR_Analytics_Dashboard.pbix` | 5-page Power BI dashboard — filter-linked, decision-flow structure |
 | `HR_Analytics_Executive_Findings.pptx` | Executive findings presentation |
 
