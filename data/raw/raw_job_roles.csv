@@ -1,0 +1,36 @@
+job_role_id,job_title,canonical_title,job_level,department_id,role_family,salary_band_min_usd,salary_band_max_usd
+101,Cust Support Agent,Customer Support Associate,Junior,1,Support,17000,26000
+102,Senior Support Specialist,Senior Support Specialist,Senior,1,Support,28000,42000
+103,Support Team Lead,Support Team Lead,Lead,1,Support,43000,62000
+104,CSM,Customer Success Manager,Manager,1,Customer Success,52000,78000
+105,Sales Development Representative,Sales Development Representative,Junior,2,Sales,22000,36000
+106,Account Executive,Account Executive,Mid,2,Sales,38000,70000
+107,Sr Account Executive,Senior Account Executive,Senior,2,Sales,65000,105000
+108,Sales Manager,Sales Manager,Manager,2,Sales Management,85000,130000
+109,Jr Software Engineer,Junior Software Engineer,Junior,3,Software Engineering,32000,52000
+110,SWE,Software Engineer,Mid,3,Software Engineering,52000,85000
+111,Software Engineer III,Senior Software Engineer,Senior,3,Software Engineering,83000,130000
+112,Eng Manager,Engineering Manager,Manager,3,Engineering Leadership,115000,165000
+113,Data Analyst,Data Analyst,Junior,4,Analytics,28000,48000
+114,BI analyst,BI Analyst,Mid,4,Analytics,42000,68000
+115,Sr Data Analyst,Senior Data Analyst,Senior,4,Analytics,66000,98000
+116,Analytics Mgr,Analytics Manager,Manager,4,Analytics Leadership,85000,125000
+117,HR Coordinator,HR Coordinator,Junior,5,People Operations,22000,34000
+118,HRBP,HR Business Partner,Mid,5,People Operations,45000,76000
+119,Talent Acquisition Specialist,Talent Acquisition Specialist,Mid,5,Recruiting,36000,62000
+120,Fin Analyst,Finance Analyst,Junior,6,Finance,28000,46000
+121,Sr Accountant,Senior Accountant,Senior,6,Accounting,48000,76000
+122,Finance Mgr,Finance Manager,Manager,6,Finance Leadership,74000,115000
+123,Operations Coord.,Operations Coordinator,Junior,7,Operations,21000,34000
+124,Operations Analyst,Operations Analyst,Mid,7,Operations,33000,54000
+125,Operations Manager,Operations Manager,Manager,7,Operations Leadership,62000,95000
+126,Marketing Coordinator,Marketing Coordinator,Junior,8,Marketing,23000,36000
+127,Performance Marketing Specialist,Digital Marketing Specialist,Mid,8,Marketing,36000,62000
+128,Marketing Manager,Marketing Manager,Manager,8,Marketing Leadership,68000,105000
+129,Helpdesk Specialist,IT Support Specialist,Junior,9,IT Support,26000,42000
+130,Systems Administrator,Systems Administrator,Mid,9,Infrastructure,46000,72000
+131,IT Manager,IT Manager,Manager,9,IT Leadership,72000,112000
+132,Associate Product Manager,Associate Product Manager,Junior,10,Product Management,42000,68000
+133,PM,Product Manager,Mid,10,Product Management,70000,105000
+134,Sr Product Manager,Senior Product Manager,Senior,10,Product Management,105000,150000
+105,Sales Dev Rep,Sales Development Representative,Jr,2,Sales,22000,36000

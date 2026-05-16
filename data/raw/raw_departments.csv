@@ -1,0 +1,15 @@
+department_id,department_name,business_unit,department_head,region,active_flag
+1,Customer Support,Client Operations,Maya Haddad,MENA,Y
+2,Revenue Sales,Revenue,Omar Khalil,MENA,Yes
+3,Eng,Technology,Ravi Sharma,Global,Yes
+4,Data & Analytics,Technology,Lina Nasser,Global,Y
+5,human resources,Corporate Services,Sara Mansour,MENA,1
+6,Finance,Corporate Services,George Khoury,MENA,Y
+7,Operations,Client Operations,Fatima Rahman,MENA,Yes
+8,Mktg,Revenue,Daniel Wilson,Global,Y
+9,it support,Technology,Tariq Awad,Global,Yes
+10,PRODUCT,Technology,Priya Singh,Global,1
+1,Cust Support,Client Operations,Maya Haddad,MENA,yes
+2,SALES,Revenue,Omar Khalil,MENA,yes
+5,Human Resources,Corporate Services,Sara Mansour,MENA,Y
+9,Tech Support,Technology,Tariq Awad,Global,yes

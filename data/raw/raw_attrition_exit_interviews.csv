@@ -1,0 +1,375 @@
+exit_id,employee_id,exit_date,exit_type,exit_reason,rehire_eligible,exit_interview_score,comments
+400001,100005,2024/08/07,voluntary,Poor culture fit,1,5,Employee felt the culture did not match expectations.
+400002,100007,2025-02-27,Involuntary,Performance termination,No,1,Employment ended due to sustained performance issues.
+400003,100015,2024-03-24,VOLUNTARY,Better compensation,Yes,3,Employee cited stronger pay package from another employer.
+400004,100018,2021-09-10,Voluntary,Better compensation,Yes,5,Employee cited stronger pay package from another employer.
+400005,100019,2025/06/17,VOLUNTARY,Manager relationship,Yes,4,Employee mentioned lack of manager support and communication.
+400006,100020,2026-04-14,VOLUNTARY,Career growth,Yes,2,Employee reported limited advancement opportunities.
+400007,100021,2025-12-27,voluntary,Relocation,Yes,1,Employee moved to another city or country.
+400008,100025,2023-02-10,voluntary,Manager relationship,1,4,Employee mentioned lack of manager support and communication.
+400009,100034,2021-09-19,voluntary,Personal reasons,1,3,Employee left for personal or family reasons.
+400010,100039,2020-04-16,Voluntary,Personal reasons,Yes,1,Employee left for personal or family reasons.
+400011,100043,2019-07-24,VOLUNTARY,Manager relationship,Yes,4,Employee mentioned lack of manager support and communication.
+400012,100054,"Aug 09, 2024",voluntary,BETTER COMPENSATION,TRUE,2,Employee cited stronger pay package from another employer.
+400013,100055,2024-01-15,involuntary,Performance termination,No,2,Employment ended due to sustained performance issues.
+400014,100059,03-04-2026,VOLUNTARY,Better compensation,Yes,4,Employee cited stronger pay package from another employer.
+400015,100062,2022-12-18,VOLUNTARY,Poor culture fit,TRUE,3,Employee felt the culture did not match expectations.
+400016,100066,15-05-2018,voluntary,Career growth,TRUE,2,Employee reported limited advancement opportunities.
+400017,100070,13-09-2025,Voluntary,Personal reasons,TRUE,3,Employee left for personal or family reasons.
+400018,100072,2024-02-12,VOLUNTARY,Better compensation,Yes,1,Employee cited stronger pay package from another employer.
+400019,100074,2019-10-06,voluntary,Career growth,Yes,5,Employee reported limited advancement opportunities.
+400020,100083,2019-01-31,voluntary,Workload,Yes,1,Employee described workload pressure and burnout risk.
+400021,100092,2026-03-17,voluntary,Personal reasons,TRUE,4,Employee left for personal or family reasons.
+400022,100094,2023-04-01,voluntary,Personal reasons,Yes,5,Employee left for personal or family reasons.
+400023,100104,2023-04-23,Voluntary,Better compensation,TRUE,4,Employee cited stronger pay package from another employer.
+400024,100107,2026-02-11,Voluntary,Poor culture fit,Yes,3,Employee felt the culture did not match expectations.
+400025,100110,2023-03-18,Voluntary,Personal reasons,1,2,Employee left for personal or family reasons.
+400026,100113,2026-02-06,VOLUNTARY,Better compensation,1,1,Employee cited stronger pay package from another employer.
+400027,100117,2026-01-28,VOLUNTARY,Manager relationship,Yes,1,Employee mentioned lack of manager support and communication.
+400028,100118,2025-08-26,voluntary,Workload,Yes,0,Employee described workload pressure and burnout risk.
+400029,100127,2023-08-30,Voluntary,Poor culture fit,1,2,Employee felt the culture did not match expectations.
+400030,100140,2023-11-25,Voluntary,Relocation,1,1,Employee moved to another city or country.
+400031,100151,2026-04-02,voluntary,Career growth,TRUE,5,Employee reported limited advancement opportunities.
+400032,100152,2025-05-01,voluntary,Workload,Yes,4,Employee described workload pressure and burnout risk.
+400033,100154,2023/12/10,voluntary,Manager relationship,TRUE,3,Employee mentioned lack of manager support and communication.
+400034,100156,2024-05-05,voluntary,Career growth,TRUE,3,Employee reported limited advancement opportunities.
+400035,100157,2018-01-19,voluntary,Better compensation,1,1,Employee cited stronger pay package from another employer.
+400036,100162,"Apr 13, 2026",Voluntary,Manager relationship,Yes,2,Employee mentioned lack of manager support and communication.
+400037,100174,2017-07-16,Voluntary,Career growth,1,5,Employee reported limited advancement opportunities.
+400038,100186,2026-04-06,Voluntary,Better compensation,1,0,Employee cited stronger pay package from another employer.
+400039,100190,2025-07-10,voluntary,Personal reasons,1,3,Employee left for personal or family reasons.
+400040,100201,04/11/2025,voluntary,Personal reasons,Yes,2,Employee left for personal or family reasons.
+400041,100203,2025-11-04,Voluntary,Workload,TRUE,1,Employee described workload pressure and burnout risk.
+400042,100205,2025-07-19,VOLUNTARY,Workload,TRUE,1,Employee described workload pressure and burnout risk.
+400043,100209,31-07-2019,Involuntary,Performance termination,No,1,Employment ended due to sustained performance issues.
+400044,100213,2021-10-29,VOLUNTARY,CAREER GROWTH,Yes,3,Employee reported limited advancement opportunities.
+400045,100215,2022-06-17,voluntary,Manager relationship,TRUE,1,Employee mentioned lack of manager support and communication.
+400046,100220,2025-08-15,Voluntary,workload,TRUE,3,Employee described workload pressure and burnout risk.
+400047,100223,2024-12-25,voluntary,Poor culture fit,TRUE,1,Employee felt the culture did not match expectations.
+400048,100228,2025-10-19,INVOLUNTARY,Performance termination,0,4,Employment ended due to sustained performance issues.
+400049,100232,2024-07-04,voluntary,Workload,TRUE,3,Employee described workload pressure and burnout risk.
+400050,100237,2024-03-19,Voluntary,Career growth,TRUE,4,Employee reported limited advancement opportunities.
+400051,100244,03/04/2026,Voluntary,personal reasons,1,2,Employee left for personal or family reasons.
+400052,100249,2023-02-19,voluntary,Workload,Yes,4,Employee described workload pressure and burnout risk.
+400053,100250,06-06-2015,Voluntary,Career growth,1,3,Employee reported limited advancement opportunities.
+400054,100253,2023-09-20,VOLUNTARY,Workload,Yes,6,Employee described workload pressure and burnout risk.
+400055,100255,2025-08-15,VOLUNTARY,Poor culture fit,1,6,Employee felt the culture did not match expectations.
+400056,100257,2025-09-20,voluntary,Better compensation,Yes,3,Employee cited stronger pay package from another employer.
+400057,100259,2026-04-01,Voluntary,workload,1,4,Employee described workload pressure and burnout risk.
+400058,100263,10/01/2023,VOLUNTARY,manager relationship,Yes,3,Employee mentioned lack of manager support and communication.
+400059,100265,2025-08-25,VOLUNTARY,Manager relationship,Yes,1,Employee mentioned lack of manager support and communication.
+400060,100273,2023-05-05,Voluntary,Manager relationship,Yes,5,Employee mentioned lack of manager support and communication.
+400061,100276,11-01-2026,VOLUNTARY,Better compensation,Yes,3,Employee cited stronger pay package from another employer.
+400062,100278,2023-01-18,voluntary,Career growth,Yes,3,Employee reported limited advancement opportunities.
+400063,100283,2026-03-05,VOLUNTARY,Better compensation,1,1,Employee cited stronger pay package from another employer.
+400064,100288,2023-06-30,VOLUNTARY,Workload,1,3,Employee described workload pressure and burnout risk.
+400065,100300,2024-02-18,VOLUNTARY,better compensation,TRUE,4,Employee cited stronger pay package from another employer.
+400066,100303,2023-10-05,Voluntary,Better compensation,1,1,Employee cited stronger pay package from another employer.
+400067,100306,12/30/2020,voluntary,Workload,TRUE,5,Employee described workload pressure and burnout risk.
+400068,100308,2024-08-04,voluntary,Career growth,TRUE,,Employee reported limited advancement opportunities.
+400069,100310,13-05-2022,Involuntary,Performance termination,No,5,Employment ended due to sustained performance issues.
+400070,100313,"Oct 23, 2025",VOLUNTARY,Workload,TRUE,3,Employee described workload pressure and burnout risk.
+400071,100321,2024-08-25,Voluntary,Career growth,1,2,Employee reported limited advancement opportunities.
+400072,100322,1900-01-01,Voluntary,Career growth,Yes,3,Employee reported limited advancement opportunities.
+400073,100324,2025-06-29,Involuntary,Performance termination,0,2,Employment ended due to sustained performance issues.
+400074,100330,2023-10-11,VOLUNTARY,Better compensation,TRUE,0,Employee cited stronger pay package from another employer.
+400075,100335,2025/05/12,VOLUNTARY,Better compensation,TRUE,2,Employee cited stronger pay package from another employer.
+400076,100339,2020-11-17,VOLUNTARY,Personal reasons,Yes,5,Employee left for personal or family reasons.
+400077,100342,2021-07-28,VOLUNTARY,Workload,1,4,Employee described workload pressure and burnout risk.
+400078,100346,11/15/2022,VOLUNTARY,Workload,TRUE,3,Employee described workload pressure and burnout risk.
+400079,100351,2018-03-26,VOLUNTARY,Manager relationship,1,4,Employee mentioned lack of manager support and communication.
+400080,100353,2024-04-01,voluntary,Poor culture fit,1,5,Employee felt the culture did not match expectations.
+400081,100355,2023-11-11,voluntary,Better compensation,1,1,Employee cited stronger pay package from another employer.
+400082,100358,2020-12-22,voluntary,Career growth,1,2,Employee reported limited advancement opportunities.
+400083,100360,2025-07-13,Voluntary,Poor culture fit,1,,Employee felt the culture did not match expectations.
+400084,100361,2025-08-09,Involuntary,performance termination,FALSE,4,Employment ended due to sustained performance issues.
+400085,100370,2026-03-02,VOLUNTARY,Personal reasons,Yes,3,Employee left for personal or family reasons.
+400086,100380,2025-05-18,VOLUNTARY,Career growth,TRUE,4,Employee reported limited advancement opportunities.
+400087,100399,2023-05-24,Voluntary,Career growth,1,2,Employee reported limited advancement opportunities.
+400088,100407,2025-03-04,VOLUNTARY,Better compensation,Yes,1,Employee cited stronger pay package from another employer.
+400089,100410,2024-02-22,Voluntary,Better compensation,1,1,Employee cited stronger pay package from another employer.
+400090,100411,2023-07-01,VOLUNTARY,Personal reasons,1,3,Employee left for personal or family reasons.
+400091,100417,2025-10-20,Voluntary,Better compensation,TRUE,3,Employee cited stronger pay package from another employer.
+400092,100424,01-06-2021,Voluntary,PERSONAL REASONS,1,5,Employee left for personal or family reasons.
+400093,100438,2023/10/13,Voluntary,Better compensation,Yes,1,Employee cited stronger pay package from another employer.
+400094,100442,2021-03-18,Involuntary,Performance termination,0,4,Employment ended due to sustained performance issues.
+400095,100446,2021-06-06,Voluntary,Better compensation,Yes,2,Employee cited stronger pay package from another employer.
+400096,100451,08/19/2025,VOLUNTARY,Better compensation,Yes,6,Employee cited stronger pay package from another employer.
+400097,100456,29-07-2024,voluntary,Better compensation,Yes,2,Employee cited stronger pay package from another employer.
+400098,100460,"Aug 20, 2020",VOLUNTARY,Poor culture fit,1,,Employee felt the culture did not match expectations.
+400099,100461,"Jul 18, 2025",voluntary,Relocation,Yes,5,Employee moved to another city or country.
+400100,100467,2025-01-13,VOLUNTARY,Personal reasons,1,1,Employee left for personal or family reasons.
+400101,100471,2023/03/27,Voluntary,Career growth,Yes,4,Employee reported limited advancement opportunities.
+400102,100475,2023-01-16,Voluntary,Better compensation,TRUE,3,Employee cited stronger pay package from another employer.
+400103,100480,2024-06-16,voluntary,Personal reasons,1,4,Employee left for personal or family reasons.
+400104,100488,2020-11-05,VOLUNTARY,Poor culture fit,TRUE,1,Employee felt the culture did not match expectations.
+400105,100489,"Dec 16, 2022",Voluntary,Relocation,TRUE,5,Employee moved to another city or country.
+400106,100493,14-09-2025,Voluntary,Better compensation,1,3,Employee cited stronger pay package from another employer.
+400107,100502,"Jun 21, 2021",VOLUNTARY,Workload,TRUE,2,Employee described workload pressure and burnout risk.
+400108,100511,2020-04-08,Voluntary,Manager relationship,Yes,,Employee mentioned lack of manager support and communication.
+400109,100514,2018-10-04,voluntary,Relocation,TRUE,1,Employee moved to another city or country.
+400110,100518,2023-02-26,VOLUNTARY,Manager relationship,Yes,1,Employee mentioned lack of manager support and communication.
+400111,100525,"Feb 08, 2024",Voluntary,Career growth,TRUE,4,Employee reported limited advancement opportunities.
+400112,100536,09/02/2024,Involuntary,Performance termination,No,2,Employment ended due to sustained performance issues.
+400113,100538,2018/10/03,voluntary,Personal reasons,TRUE,4,Employee left for personal or family reasons.
+400114,100543,01/31/2026,Voluntary,Manager relationship,TRUE,2,Employee mentioned lack of manager support and communication.
+400115,100548,2019-02-21,voluntary,Career growth,TRUE,4,Employee reported limited advancement opportunities.
+400116,100554,2026-02-13,Voluntary,Manager relationship,1,2,Employee mentioned lack of manager support and communication.
+400117,100567,2025-08-08,Voluntary,Career growth,TRUE,1,Employee reported limited advancement opportunities.
+400118,100573,2023-12-04,voluntary,Personal reasons,Yes,0,Employee left for personal or family reasons.
+400119,100576,2022-01-07,VOLUNTARY,Poor culture fit,TRUE,3,Employee felt the culture did not match expectations.
+400120,100578,04/11/2022,involuntary,performance termination,0,3,Employment ended due to sustained performance issues.
+400121,100580,2019-06-27,Voluntary,Personal reasons,TRUE,1,Employee left for personal or family reasons.
+400122,100584,2022-03-16,Voluntary,relocation,Yes,4,Employee moved to another city or country.
+400123,100591,2025-09-21,voluntary,Career growth,TRUE,2,Employee reported limited advancement opportunities.
+400124,100610,2025-04-20,VOLUNTARY,Better compensation,TRUE,2,Employee cited stronger pay package from another employer.
+400125,100614,2021-12-21,Involuntary,Performance termination,No,1,Employment ended due to sustained performance issues.
+400126,100621,07/02/2022,Voluntary,Poor culture fit,1,2,Employee felt the culture did not match expectations.
+400127,100622,2025-04-18,involuntary,Performance termination,0,5,Employment ended due to sustained performance issues.
+400128,100626,2023-06-06,voluntary,BETTER COMPENSATION,1,4,Employee cited stronger pay package from another employer.
+400129,100633,2026-01-25,VOLUNTARY,Career growth,Yes,1,Employee reported limited advancement opportunities.
+400130,100638,2026-03-17,Voluntary,Better compensation,1,2,Employee cited stronger pay package from another employer.
+400131,100644,"Jul 26, 2023",voluntary,Poor culture fit,Yes,3,Employee felt the culture did not match expectations.
+400132,100648,09-06-2022,Voluntary,Manager relationship,Yes,5,Employee mentioned lack of manager support and communication.
+400133,100650,2025-11-18,Involuntary,Performance termination,0,,Employment ended due to sustained performance issues.
+400134,100655,2017-10-21,Voluntary,Better compensation,Yes,3,Employee cited stronger pay package from another employer.
+400135,100657,2025-11-01,Voluntary,Career growth,Yes,2,Employee reported limited advancement opportunities.
+400136,100658,2022-03-07,VOLUNTARY,Workload,1,1,Employee described workload pressure and burnout risk.
+400137,100666,2023-04-12,Voluntary,Personal reasons,Yes,3,Employee left for personal or family reasons.
+400138,100668,"Mar 20, 2026",Voluntary,Better compensation,1,3,Employee cited stronger pay package from another employer.
+400139,100669,2024-07-25,voluntary,Personal reasons,TRUE,3,Employee left for personal or family reasons.
+400140,100672,14-09-2024,involuntary,Performance termination,FALSE,1,Employment ended due to sustained performance issues.
+400141,100674,2025-11-25,INVOLUNTARY,Performance termination,0,1,Employment ended due to sustained performance issues.
+400142,100680,"Nov 13, 2023",Voluntary,Career growth,Yes,2,Employee reported limited advancement opportunities.
+400143,100689,11-01-2025,Voluntary,POOR CULTURE FIT,TRUE,2,Employee felt the culture did not match expectations.
+400144,100695,2025-02-24,Voluntary,Better compensation,TRUE,1,Employee cited stronger pay package from another employer.
+400145,100708,2026-01-01,VOLUNTARY,Career growth,Yes,4,Employee reported limited advancement opportunities.
+400146,100714,2019-12-10,VOLUNTARY,Personal reasons,1,3,Employee left for personal or family reasons.
+400147,100715,05/08/2020,VOLUNTARY,Poor culture fit,TRUE,1,Employee felt the culture did not match expectations.
+400148,100721,2026-03-24,involuntary,Performance termination,0,3,Employment ended due to sustained performance issues.
+400149,100725,2026/03/02,VOLUNTARY,Manager relationship,Yes,2,Employee mentioned lack of manager support and communication.
+400150,100726,2020-05-19,voluntary,Manager relationship,Yes,5,Employee mentioned lack of manager support and communication.
+400151,100727,2026-01-17,voluntary,Career growth,Yes,2,Employee reported limited advancement opportunities.
+400152,100732,2025-11-14,Involuntary,Performance termination,No,3,Employment ended due to sustained performance issues.
+400153,100734,2024-07-20,voluntary,Relocation,TRUE,1,Employee moved to another city or country.
+400154,100735,2021-03-04,Voluntary,WORKLOAD,TRUE,1,Employee described workload pressure and burnout risk.
+400155,100740,2026-03-30,voluntary,Poor culture fit,1,1,Employee felt the culture did not match expectations.
+400156,100754,2024-09-29,involuntary,Performance termination,0,,Employment ended due to sustained performance issues.
+400157,100756,2022-12-30,voluntary,Better compensation,Yes,4,Employee cited stronger pay package from another employer.
+400158,100763,2026-03-12,voluntary,Better compensation,Yes,5,Employee cited stronger pay package from another employer.
+400159,100766,"Nov 10, 2019",INVOLUNTARY,Performance termination,No,1,Employment ended due to sustained performance issues.
+400160,100778,2020-04-04,voluntary,Better compensation,TRUE,1,Employee cited stronger pay package from another employer.
+400161,100782,2026-01-29,VOLUNTARY,Career growth,1,1,Employee reported limited advancement opportunities.
+400162,100788,2025-04-09,VOLUNTARY,Relocation,Yes,1,Employee moved to another city or country.
+400163,100798,06/30/2019,VOLUNTARY,relocation,1,2,Employee moved to another city or country.
+400164,100811,2024-11-08,VOLUNTARY,Personal reasons,TRUE,0,Employee left for personal or family reasons.
+400165,100812,"Jan 27, 2018",Voluntary,Career growth,Yes,3,Employee reported limited advancement opportunities.
+400166,100820,2025-10-11,voluntary,Better compensation,Yes,5,Employee cited stronger pay package from another employer.
+400167,100822,12/20/2025,Voluntary,Manager relationship,TRUE,1,Employee mentioned lack of manager support and communication.
+400168,100825,2019-06-05,voluntary,Manager relationship,1,4,Employee mentioned lack of manager support and communication.
+400169,100828,01/02/2022,INVOLUNTARY,Performance termination,FALSE,3,Employment ended due to sustained performance issues.
+400170,100829,"Mar 07, 2017",VOLUNTARY,Poor culture fit,TRUE,2,Employee felt the culture did not match expectations.
+400171,100836,04-02-2026,Voluntary,Manager relationship,Yes,5,Employee mentioned lack of manager support and communication.
+400172,100848,02/15/2024,voluntary,Better compensation,1,,Employee cited stronger pay package from another employer.
+400173,100867,2025-05-01,voluntary,Career growth,Yes,4,Employee reported limited advancement opportunities.
+400174,100870,2024-03-13,VOLUNTARY,Better compensation,1,5,Employee cited stronger pay package from another employer.
+400175,100872,2024-04-09,voluntary,PERSONAL REASONS,Yes,3,Employee left for personal or family reasons.
+400176,100873,2024-05-22,VOLUNTARY,Relocation,1,4,Employee moved to another city or country.
+400177,100898,2025-07-08,voluntary,Workload,TRUE,5,Employee described workload pressure and burnout risk.
+400178,100901,2021-03-12,VOLUNTARY,Personal reasons,TRUE,2,Employee left for personal or family reasons.
+400179,100907,2020-07-31,voluntary,Career growth,Yes,3,Employee reported limited advancement opportunities.
+400180,100908,2023-10-06,VOLUNTARY,Relocation,TRUE,,Employee moved to another city or country.
+400181,100921,2025-12-05,voluntary,manager relationship,TRUE,4,Employee mentioned lack of manager support and communication.
+400182,100936,2023-05-19,Voluntary,Manager relationship,TRUE,4,Employee mentioned lack of manager support and communication.
+400183,100946,"Apr 10, 2026",Voluntary,Better compensation,TRUE,5,Employee cited stronger pay package from another employer.
+400184,100949,2023-05-11,VOLUNTARY,Better compensation,TRUE,4,Employee cited stronger pay package from another employer.
+400185,100951,2023-11-19,voluntary,poor culture fit,1,2,Employee felt the culture did not match expectations.
+400186,100954,2025-09-07,Voluntary,Workload,TRUE,5,Employee described workload pressure and burnout risk.
+400187,100961,2025-10-03,voluntary,Poor culture fit,TRUE,1,Employee felt the culture did not match expectations.
+400188,100963,2026-01-29,Voluntary,Career growth,Yes,3,Employee reported limited advancement opportunities.
+400189,100968,2025-07-16,VOLUNTARY,Workload,TRUE,3,Employee described workload pressure and burnout risk.
+400190,100972,11/15/2021,Voluntary,Personal reasons,Yes,3,Employee left for personal or family reasons.
+400191,100978,2024-04-22,VOLUNTARY,Career growth,1,0,Employee reported limited advancement opportunities.
+400192,100989,2023-08-05,VOLUNTARY,Personal reasons,1,1,Employee left for personal or family reasons.
+400193,100996,05/25/2025,Voluntary,Workload,Yes,4,Employee described workload pressure and burnout risk.
+400194,100999,11/11/2019,VOLUNTARY,relocation,TRUE,4,Employee moved to another city or country.
+400195,101003,2023-10-30,Voluntary,Relocation,Yes,2,Employee moved to another city or country.
+400196,101008,24-04-2024,voluntary,Career growth,Yes,2,Employee reported limited advancement opportunities.
+400197,101010,"Jan 27, 2022",Voluntary,Career growth,1,4,Employee reported limited advancement opportunities.
+400198,101025,2025-11-29,voluntary,Career growth,Yes,,Employee reported limited advancement opportunities.
+400199,101032,2025-05-09,VOLUNTARY,Career growth,TRUE,5,Employee reported limited advancement opportunities.
+400200,101034,2017-08-03,Voluntary,Better compensation,TRUE,3,Employee cited stronger pay package from another employer.
+400201,101038,01/07/2026,VOLUNTARY,Manager relationship,1,3,Employee mentioned lack of manager support and communication.
+400202,101053,2024-10-18,Voluntary,Workload,Yes,2,Employee described workload pressure and burnout risk.
+400203,101054,2025-12-08,voluntary,Career growth,TRUE,4,Employee reported limited advancement opportunities.
+400204,101057,09-10-2024,VOLUNTARY,Manager relationship,1,4,Employee mentioned lack of manager support and communication.
+400205,101065,2019-08-13,voluntary,Personal reasons,1,2,Employee left for personal or family reasons.
+400206,101068,2024-02-01,Involuntary,Performance termination,0,1,Employment ended due to sustained performance issues.
+400207,101075,2020-08-12,VOLUNTARY,Career growth,TRUE,0,Employee reported limited advancement opportunities.
+400208,101080,"Oct 06, 2025",VOLUNTARY,Career growth,Yes,3,Employee reported limited advancement opportunities.
+400209,101101,2021-06-10,Voluntary,Better compensation,1,2,Employee cited stronger pay package from another employer.
+400210,101102,04/17/2023,Voluntary,Better compensation,Yes,5,Employee cited stronger pay package from another employer.
+400211,101103,17-03-2026,Voluntary,Career growth,1,1,Employee reported limited advancement opportunities.
+400212,101117,2024-12-16,voluntary,Workload,Yes,4,Employee described workload pressure and burnout risk.
+400213,101121,2025-07-20,VOLUNTARY,Workload,Yes,5,Employee described workload pressure and burnout risk.
+400214,101125,2019/02/13,Involuntary,Performance termination,0,1,Employment ended due to sustained performance issues.
+400215,101128,2025-12-13,VOLUNTARY,Manager relationship,TRUE,6,Employee mentioned lack of manager support and communication.
+400216,101130,2022/03/30,voluntary,Workload,Yes,2,Employee described workload pressure and burnout risk.
+400217,101132,2025-05-16,voluntary,Workload,TRUE,2,Employee described workload pressure and burnout risk.
+400218,101142,2022-01-17,VOLUNTARY,Personal reasons,TRUE,3,Employee left for personal or family reasons.
+400219,101144,2025-06-20,Voluntary,Manager relationship,Yes,3,Employee mentioned lack of manager support and communication.
+400220,101155,2023-05-06,VOLUNTARY,Career growth,TRUE,4,Employee reported limited advancement opportunities.
+400221,101157,2026-04-12,involuntary,Performance termination,No,1,Employment ended due to sustained performance issues.
+400222,101179,2023-02-14,Voluntary,Manager relationship,Yes,5,Employee mentioned lack of manager support and communication.
+400223,101183,2024-03-22,VOLUNTARY,Workload,TRUE,2,Employee described workload pressure and burnout risk.
+400224,101188,2015-11-28,VOLUNTARY,Better compensation,Yes,2,Employee cited stronger pay package from another employer.
+400225,101200,2021-05-17,Voluntary,Career growth,TRUE,3,Employee reported limited advancement opportunities.
+400226,101210,2019-01-28,VOLUNTARY,Poor culture fit,1,5,Employee felt the culture did not match expectations.
+400227,101216,13-01-2025,VOLUNTARY,Career growth,Yes,3,Employee reported limited advancement opportunities.
+400228,101224,2026-02-26,VOLUNTARY,Career growth,TRUE,4,Employee reported limited advancement opportunities.
+400229,101235,2025-11-05,voluntary,manager relationship,TRUE,1,Employee mentioned lack of manager support and communication.
+400230,101239,2022-06-14,VOLUNTARY,Career growth,Yes,5,Employee reported limited advancement opportunities.
+400231,101241,2023-12-30,VOLUNTARY,Personal reasons,1,2,Employee left for personal or family reasons.
+400232,101251,2025-12-11,VOLUNTARY,Workload,Yes,3,Employee described workload pressure and burnout risk.
+400233,101252,2025-08-14,Voluntary,Poor culture fit,1,2,Employee felt the culture did not match expectations.
+400234,101256,2015-06-21,Voluntary,Better compensation,TRUE,4,Employee cited stronger pay package from another employer.
+400235,101259,2023/03/13,INVOLUNTARY,Performance termination,FALSE,3,Employment ended due to sustained performance issues.
+400236,101264,2025-01-05,VOLUNTARY,manager relationship,TRUE,5,Employee mentioned lack of manager support and communication.
+400237,101265,2023-09-05,voluntary,WORKLOAD,Yes,3,Employee described workload pressure and burnout risk.
+400238,101266,"Dec 30, 2022",voluntary,Poor culture fit,1,1,Employee felt the culture did not match expectations.
+400239,101272,2021-10-23,voluntary,Career growth,1,4,Employee reported limited advancement opportunities.
+400240,101291,24-09-2023,Voluntary,Career growth,TRUE,3,Employee reported limited advancement opportunities.
+400241,101292,2019-02-03,INVOLUNTARY,Performance termination,0,6,Employment ended due to sustained performance issues.
+400242,101299,2023-04-22,Voluntary,Career growth,Yes,1,Employee reported limited advancement opportunities.
+400243,101300,2022-04-08,Voluntary,Workload,1,4,Employee described workload pressure and burnout risk.
+400244,101301,2025-01-09,Voluntary,Relocation,TRUE,2,Employee moved to another city or country.
+400245,101314,2022-08-21,Voluntary,Workload,TRUE,1,Employee described workload pressure and burnout risk.
+400246,101316,2016-12-23,Voluntary,Career growth,Yes,,Employee reported limited advancement opportunities.
+400247,101320,04/07/2024,VOLUNTARY,Workload,Yes,2,Employee described workload pressure and burnout risk.
+400248,101330,2022-03-06,Involuntary,Performance termination,FALSE,3,Employment ended due to sustained performance issues.
+400249,101335,2026-02-09,Voluntary,Poor culture fit,1,2,Employee felt the culture did not match expectations.
+400250,101345,2025-01-17,VOLUNTARY,BETTER COMPENSATION,1,4,Employee cited stronger pay package from another employer.
+400251,101351,2026-03-03,voluntary,Poor culture fit,TRUE,4,Employee felt the culture did not match expectations.
+400252,101352,2024-11-09,Voluntary,Better compensation,1,4,Employee cited stronger pay package from another employer.
+400253,101356,2021-02-15,Voluntary,Personal reasons,1,5,Employee left for personal or family reasons.
+400254,101359,2026-03-02,VOLUNTARY,Better compensation,TRUE,5,Employee cited stronger pay package from another employer.
+400255,101377,08-01-2026,Involuntary,Performance termination,0,5,Employment ended due to sustained performance issues.
+400256,101378,2024-08-16,voluntary,Manager relationship,1,1,Employee mentioned lack of manager support and communication.
+400257,101379,08/31/2024,INVOLUNTARY,Performance termination,No,4,Employment ended due to sustained performance issues.
+400258,101384,2026-02-27,VOLUNTARY,Career growth,TRUE,5,Employee reported limited advancement opportunities.
+400259,101390,10-12-2022,VOLUNTARY,Better compensation,Yes,3,Employee cited stronger pay package from another employer.
+400260,101392,2024-12-02,Voluntary,Workload,TRUE,1,Employee described workload pressure and burnout risk.
+400261,101407,2025-03-12,Voluntary,Workload,1,4,Employee described workload pressure and burnout risk.
+400262,101413,2025-03-06,voluntary,Personal reasons,1,4,Employee left for personal or family reasons.
+400263,101414,06/29/2015,Voluntary,Personal reasons,1,1,Employee left for personal or family reasons.
+400264,101416,11/26/2024,voluntary,Personal reasons,1,1,Employee left for personal or family reasons.
+400265,101417,2025-10-02,Voluntary,Personal reasons,TRUE,6,Employee left for personal or family reasons.
+400266,101421,2025-10-21,voluntary,Manager relationship,1,0,Employee mentioned lack of manager support and communication.
+400267,101424,"Jun 13, 2025",VOLUNTARY,Better compensation,1,4,Employee cited stronger pay package from another employer.
+400268,101425,2021-09-03,VOLUNTARY,Personal reasons,1,,Employee left for personal or family reasons.
+400269,101426,2026/01/26,VOLUNTARY,Poor culture fit,Yes,0,Employee felt the culture did not match expectations.
+400270,101428,2024-10-11,Involuntary,Performance termination,No,1,Employment ended due to sustained performance issues.
+400271,101432,2023-08-11,Voluntary,Personal reasons,1,4,Employee left for personal or family reasons.
+400272,101434,"Mar 28, 2023",Voluntary,Manager relationship,TRUE,5,Employee mentioned lack of manager support and communication.
+400273,101439,2026-03-08,VOLUNTARY,Personal reasons,1,3,Employee left for personal or family reasons.
+400274,101446,2026-01-10,Voluntary,Career growth,TRUE,5,Employee reported limited advancement opportunities.
+400275,101454,2023-08-30,Voluntary,Career growth,1,3,Employee reported limited advancement opportunities.
+400276,101455,2023-12-05,Voluntary,Personal reasons,Yes,5,Employee left for personal or family reasons.
+400277,101460,2019-01-17,Voluntary,Workload,1,3,Employee described workload pressure and burnout risk.
+400278,101462,2024-09-12,VOLUNTARY,Manager relationship,1,4,Employee mentioned lack of manager support and communication.
+400279,101465,2024-04-02,Voluntary,Manager relationship,Yes,4,Employee mentioned lack of manager support and communication.
+400280,101470,2024-09-27,voluntary,Manager relationship,Yes,5,Employee mentioned lack of manager support and communication.
+400281,101471,2023-03-05,voluntary,Career growth,Yes,1,Employee reported limited advancement opportunities.
+400282,101478,2026-01-02,voluntary,Poor culture fit,TRUE,0,Employee felt the culture did not match expectations.
+400283,101480,2025-06-16,involuntary,Performance termination,No,2,Employment ended due to sustained performance issues.
+400284,101485,08/20/2025,VOLUNTARY,personal reasons,Yes,5,Employee left for personal or family reasons.
+400285,101489,03-04-2021,Involuntary,Performance termination,No,4,Employment ended due to sustained performance issues.
+400286,101491,2026-04-13,VOLUNTARY,Better compensation,Yes,6,Employee cited stronger pay package from another employer.
+400287,101492,2024-08-25,INVOLUNTARY,PERFORMANCE TERMINATION,FALSE,3,Employment ended due to sustained performance issues.
+400288,101504,2023/02/06,voluntary,Better compensation,TRUE,3,Employee cited stronger pay package from another employer.
+400289,101516,2018-11-22,Voluntary,Poor culture fit,TRUE,4,Employee felt the culture did not match expectations.
+400290,101518,2020-11-06,Voluntary,Workload,TRUE,5,Employee described workload pressure and burnout risk.
+400291,101519,2022-10-23,Voluntary,Better compensation,1,1,Employee cited stronger pay package from another employer.
+400292,101523,2024-01-15,voluntary,Better compensation,TRUE,1,Employee cited stronger pay package from another employer.
+400293,101527,"May 28, 2025",VOLUNTARY,Manager relationship,1,1,Employee mentioned lack of manager support and communication.
+400294,101535,2025-10-16,VOLUNTARY,Better compensation,Yes,4,Employee cited stronger pay package from another employer.
+400295,101544,2024/11/26,Voluntary,personal reasons,TRUE,3,Employee left for personal or family reasons.
+400296,101549,2021/11/03,voluntary,Better compensation,1,4,Employee cited stronger pay package from another employer.
+400297,101551,2025-10-26,voluntary,Personal reasons,TRUE,5,Employee left for personal or family reasons.
+400298,101552,2026-02-01,Voluntary,Workload,TRUE,2,Employee described workload pressure and burnout risk.
+400299,101564,2026-04-08,VOLUNTARY,Relocation,1,0,Employee moved to another city or country.
+400300,101572,2024-03-04,voluntary,Personal reasons,TRUE,3,Employee left for personal or family reasons.
+400301,101580,08/13/2025,Involuntary,Performance termination,FALSE,3,Employment ended due to sustained performance issues.
+400302,101581,2026-03-19,voluntary,Poor culture fit,Yes,5,Employee felt the culture did not match expectations.
+400303,101582,2023-01-16,VOLUNTARY,Workload,1,1,Employee described workload pressure and burnout risk.
+400304,101590,2024-03-31,Voluntary,Personal reasons,Yes,3,Employee left for personal or family reasons.
+400305,101591,03/14/2026,voluntary,Personal reasons,1,2,Employee left for personal or family reasons.
+400306,101592,2023-01-22,Voluntary,Career growth,1,6,Employee reported limited advancement opportunities.
+400307,101594,2024-09-05,voluntary,Manager relationship,TRUE,0,Employee mentioned lack of manager support and communication.
+400308,101608,12/22/2019,voluntary,Workload,1,2,Employee described workload pressure and burnout risk.
+400309,101610,2023-02-17,voluntary,career growth,1,5,Employee reported limited advancement opportunities.
+400310,101617,04/30/2023,voluntary,Better compensation,1,4,Employee cited stronger pay package from another employer.
+400311,101621,2023-03-04,voluntary,Personal reasons,1,1,Employee left for personal or family reasons.
+400312,101629,2025-06-12,Voluntary,Career growth,1,5,Employee reported limited advancement opportunities.
+400313,101631,"Feb 26, 2025",Voluntary,Manager relationship,Yes,2,Employee mentioned lack of manager support and communication.
+400314,101636,2015-02-02,voluntary,Personal reasons,Yes,1,Employee left for personal or family reasons.
+400315,101640,2026-01-04,Voluntary,CAREER GROWTH,1,4,Employee reported limited advancement opportunities.
+400316,101642,2024-05-29,voluntary,WORKLOAD,TRUE,1,Employee described workload pressure and burnout risk.
+400317,101649,2023-06-12,Voluntary,Personal reasons,1,5,Employee left for personal or family reasons.
+400318,101652,12-08-2022,Voluntary,Workload,TRUE,5,Employee described workload pressure and burnout risk.
+400319,101653,2025-07-22,Voluntary,Career growth,Yes,5,Employee reported limited advancement opportunities.
+400320,101654,12/29/2025,Voluntary,personal reasons,Yes,1,Employee left for personal or family reasons.
+400321,101660,2025-11-30,voluntary,Workload,1,3,Employee described workload pressure and burnout risk.
+400322,101666,2024-04-20,VOLUNTARY,Career growth,TRUE,,Employee reported limited advancement opportunities.
+400323,101669,2025-12-17,Voluntary,Relocation,TRUE,,Employee moved to another city or country.
+400324,101670,2025-12-03,voluntary,Poor culture fit,1,2,Employee felt the culture did not match expectations.
+400325,101672,2021-04-12,Voluntary,Better compensation,Yes,1,Employee cited stronger pay package from another employer.
+400326,101673,2026/01/15,voluntary,Relocation,Yes,3,Employee moved to another city or country.
+400327,101683,2023-08-27,VOLUNTARY,Better compensation,Yes,5,Employee cited stronger pay package from another employer.
+400328,101684,2023-01-13,VOLUNTARY,Better compensation,Yes,5,Employee cited stronger pay package from another employer.
+400329,101693,2019-01-29,VOLUNTARY,RELOCATION,Yes,1,Employee moved to another city or country.
+400330,101697,2025-10-22,Voluntary,Poor culture fit,Yes,,Employee felt the culture did not match expectations.
+400331,101708,2025-11-26,VOLUNTARY,Better compensation,1,1,Employee cited stronger pay package from another employer.
+400332,101725,"Mar 27, 2021",VOLUNTARY,Manager relationship,1,5,Employee mentioned lack of manager support and communication.
+400333,101729,2026-01-03,Voluntary,Relocation,TRUE,3,Employee moved to another city or country.
+400334,101742,2019-03-06,Voluntary,career growth,1,2,Employee reported limited advancement opportunities.
+400335,101743,2022-04-12,VOLUNTARY,Better compensation,Yes,3,Employee cited stronger pay package from another employer.
+400336,101744,2025-04-06,voluntary,Workload,1,5,Employee described workload pressure and burnout risk.
+400337,101756,2025-11-24,VOLUNTARY,Workload,TRUE,5,Employee described workload pressure and burnout risk.
+400338,101769,12/12/2020,voluntary,Better compensation,Yes,2,Employee cited stronger pay package from another employer.
+400339,101782,2024-01-19,voluntary,Career growth,Yes,4,Employee reported limited advancement opportunities.
+400340,101785,2021-06-23,voluntary,CAREER GROWTH,TRUE,5,Employee reported limited advancement opportunities.
+400341,101787,2026-01-31,VOLUNTARY,BETTER COMPENSATION,Yes,,Employee cited stronger pay package from another employer.
+400342,101788,2023-06-01,involuntary,Performance termination,0,4,Employment ended due to sustained performance issues.
+400343,101795,2018-11-13,VOLUNTARY,relocation,Yes,6,Employee moved to another city or country.
+400344,101803,2025-07-28,voluntary,Career growth,Yes,6,Employee reported limited advancement opportunities.
+400345,101812,04/01/2026,VOLUNTARY,Poor culture fit,TRUE,3,Employee felt the culture did not match expectations.
+400346,101818,2021-02-27,voluntary,Career growth,1,3,Employee reported limited advancement opportunities.
+400347,101825,2026-04-12,Voluntary,Better compensation,TRUE,6,Employee cited stronger pay package from another employer.
+400348,101827,2025-05-02,Voluntary,Better compensation,Yes,,Employee cited stronger pay package from another employer.
+400349,101832,2022-06-28,involuntary,Performance termination,0,3,Employment ended due to sustained performance issues.
+400350,101833,"Jun 17, 2025",VOLUNTARY,Poor culture fit,Yes,1,Employee felt the culture did not match expectations.
+400351,101840,2025-08-26,VOLUNTARY,Relocation,Yes,1,Employee moved to another city or country.
+400352,101842,20-01-2020,voluntary,Manager relationship,1,3,Employee mentioned lack of manager support and communication.
+400353,101848,2026-02-27,Voluntary,Career growth,Yes,1,Employee reported limited advancement opportunities.
+400354,101849,2020-01-28,VOLUNTARY,Workload,Yes,3,Employee described workload pressure and burnout risk.
+400355,100303,2023-10-05,Voluntary,Better compensation,1,1,Employee cited stronger pay package from another employer.
+400356,100848,02/15/2024,voluntary,Better compensation,1,,Employee cited stronger pay package from another employer.
+400357,100726,2020-05-19,voluntary,Manager relationship,Yes,5,Employee mentioned lack of manager support and communication.
+400358,101465,2024-04-02,Voluntary,Manager relationship,Yes,4,Employee mentioned lack of manager support and communication.
+400359,101407,2025-03-12,Voluntary,Workload,1,4,Employee described workload pressure and burnout risk.
+400360,100872,2024-04-09,voluntary,PERSONAL REASONS,Yes,3,Employee left for personal or family reasons.
+400361,101359,2026-03-02,VOLUNTARY,Better compensation,TRUE,5,Employee cited stronger pay package from another employer.
+400362,100083,2019-01-31,voluntary,Workload,Yes,1,Employee described workload pressure and burnout risk.
+400363,100370,2026-03-02,VOLUNTARY,Personal reasons,Yes,3,Employee left for personal or family reasons.
+400364,100968,2025-07-16,VOLUNTARY,Workload,TRUE,3,Employee described workload pressure and burnout risk.
+400365,100638,2026-03-17,Voluntary,Better compensation,1,2,Employee cited stronger pay package from another employer.
+400366,100954,2025-09-07,Voluntary,Workload,TRUE,5,Employee described workload pressure and burnout risk.
+400367,101121,2025-07-20,VOLUNTARY,Workload,Yes,5,Employee described workload pressure and burnout risk.
+400368,101434,"Mar 28, 2023",Voluntary,Manager relationship,TRUE,5,Employee mentioned lack of manager support and communication.
+400369,101673,2026/01/15,voluntary,Relocation,Yes,3,Employee moved to another city or country.
+400370,100324,2025-06-29,Involuntary,Performance termination,0,2,Employment ended due to sustained performance issues.
+400371,100825,2019-06-05,voluntary,Manager relationship,1,4,Employee mentioned lack of manager support and communication.
+400372,101144,2025-06-20,Voluntary,Manager relationship,Yes,3,Employee mentioned lack of manager support and communication.
+400373,101743,2022-04-12,VOLUNTARY,Better compensation,Yes,3,Employee cited stronger pay package from another employer.
+400374,101032,2025-05-09,VOLUNTARY,Career growth,TRUE,5,Employee reported limited advancement opportunities.
