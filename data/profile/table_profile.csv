@@ -1,0 +1,11 @@
+table_name,row_count,column_count,duplicate_full_rows,total_blank_cells,blank_cell_pct
+departments,14,6,0,0,0.0
+job_roles,35,8,0,0,0.0
+employees,1900,17,20,1162,3.6
+salaries,5132,7,26,100,0.28
+performance_reviews,4432,8,0,168,0.47
+satisfaction_surveys,3990,9,0,539,1.5
+training_records,7344,9,0,5100,7.72
+attendance,54660,8,0,53046,12.13
+attrition_exit_interviews,374,8,0,17,0.57
+department_history,2123,7,0,1594,10.73

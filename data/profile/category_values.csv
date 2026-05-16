@@ -1,0 +1,263 @@
+table_name,column_name,value,count
+employees,gender,Male,862
+employees,gender,Female,827
+employees,gender,Non-binary,44
+employees,gender,Man,27
+employees,gender,male,26
+employees,gender,Prefer not to say,25
+employees,gender,female,24
+employees,gender,F,23
+employees,gender,M,22
+employees,gender,Woman,18
+employees,gender,,1
+employees,gender,Prefer Not Say,1
+employees,department_name_raw,Cust Support,127
+employees,department_name_raw,Customer support,106
+employees,department_name_raw,CUSTOMER SUPPORT,101
+employees,department_name_raw,Support,101
+employees,department_name_raw,Customer Support,100
+employees,department_name_raw,Engineering,76
+employees,department_name_raw,Eng,74
+employees,department_name_raw,Software Engineering,72
+employees,department_name_raw,engineering,66
+employees,department_name_raw,ENGINEERING,64
+employees,department_name_raw,SALES,62
+employees,department_name_raw,Sales Dept,58
+employees,department_name_raw,Sales,54
+employees,department_name_raw,Revenue Sales,53
+employees,department_name_raw,sales,49
+employees,department_name_raw,Ops,44
+employees,department_name_raw,OPERATIONS,38
+employees,department_name_raw,operations,36
+employees,department_name_raw,Business Operations,35
+employees,department_name_raw,Operations,34
+employees,department_name_raw,Accounting & Finance,29
+employees,department_name_raw,BI Team,29
+employees,department_name_raw,Data and Analytics,28
+employees,department_name_raw,Fin,25
+employees,department_name_raw,Data & Analytics,25
+employees,job_title_raw,customer support associate,101
+employees,job_title_raw,Support Associate,94
+employees,job_title_raw,Cust Support Agent,92
+employees,job_title_raw,Customer Support Associate,81
+employees,job_title_raw,Operations Analyst,45
+employees,job_title_raw,Acct Executive,41
+employees,job_title_raw,Engineering Mgr,38
+employees,job_title_raw,Ops Analyst,37
+employees,job_title_raw,Account Executive,37
+employees,job_title_raw,SDR,37
+employees,job_title_raw,Sr Software Engineer,36
+employees,job_title_raw,Eng Manager,36
+employees,job_title_raw,Software Engineer III,34
+employees,job_title_raw,Sales Development Representative,34
+employees,job_title_raw,Ops Coordinator,33
+employees,job_title_raw,AE,32
+employees,job_title_raw,Software Developer,31
+employees,job_title_raw,Software Engineer I,31
+employees,job_title_raw,Sales Dev Rep,31
+employees,job_title_raw,Engineering Manager,29
+employees,job_title_raw,Operations Coordinator,28
+employees,job_title_raw,Team Lead - Support,27
+employees,job_title_raw,Software Engineer,26
+employees,job_title_raw,Junior Software Engineer,25
+employees,job_title_raw,Sr Support Specialist,24
+employees,employment_type,Contract,286
+employees,employment_type,Full Time,281
+employees,employment_type,Intern,275
+employees,employment_type,Full-time,272
+employees,employment_type,Temporary,267
+employees,employment_type,full time,261
+employees,employment_type,Part-time,258
+employees,location,"Amman, Jordan",755
+employees,location,"Cairo, Egypt",347
+employees,location,"Dubai, UAE",307
+employees,location,"Bengaluru, India",266
+employees,location,Remote - MENA,142
+employees,location,Remote - Global,83
+employees,status_raw,active,342
+employees,status_raw,Still Working,313
+employees,status_raw,Active,310
+employees,status_raw,ACTIVE,300
+employees,status_raw,Current,269
+employees,status_raw,Resigned,69
+employees,status_raw,left,63
+employees,status_raw,Exited,60
+employees,status_raw,Left,59
+employees,status_raw,Inactive,57
+employees,status_raw,Terminated,53
+employees,status_raw,still working,2
+employees,status_raw,current,2
+employees,status_raw,exited,1
+employees,remote_status,Hybrid,341
+employees,remote_status,On-site,338
+employees,remote_status,,321
+employees,remote_status,hybrid,312
+employees,remote_status,Remote,310
+employees,remote_status,REMOTE,278
+departments,department_name,Customer Support,1
+departments,department_name,Revenue Sales,1
+departments,department_name,Eng,1
+departments,department_name,Data & Analytics,1
+departments,department_name,human resources,1
+departments,department_name,Finance,1
+departments,department_name,Operations,1
+departments,department_name,Mktg,1
+departments,department_name,it support,1
+departments,department_name,PRODUCT,1
+departments,department_name,Cust Support,1
+departments,department_name,SALES,1
+departments,department_name,Human Resources,1
+departments,department_name,Tech Support,1
+departments,business_unit,Technology,5
+departments,business_unit,Client Operations,3
+departments,business_unit,Revenue,3
+departments,business_unit,Corporate Services,3
+departments,region,MENA,8
+departments,region,Global,6
+departments,active_flag,Y,5
+departments,active_flag,Yes,4
+departments,active_flag,yes,3
+departments,active_flag,1,2
+job_roles,job_title,Cust Support Agent,1
+job_roles,job_title,Performance Marketing Specialist,1
+job_roles,job_title,Sr Accountant,1
+job_roles,job_title,Finance Mgr,1
+job_roles,job_title,Operations Coord.,1
+job_roles,job_title,Operations Analyst,1
+job_roles,job_title,Operations Manager,1
+job_roles,job_title,Marketing Coordinator,1
+job_roles,job_title,Marketing Manager,1
+job_roles,job_title,Talent Acquisition Specialist,1
+job_roles,job_title,Helpdesk Specialist,1
+job_roles,job_title,Systems Administrator,1
+job_roles,job_title,IT Manager,1
+job_roles,job_title,Associate Product Manager,1
+job_roles,job_title,PM,1
+job_roles,job_title,Sr Product Manager,1
+job_roles,job_title,Fin Analyst,1
+job_roles,job_title,HRBP,1
+job_roles,job_title,Senior Support Specialist,1
+job_roles,job_title,Jr Software Engineer,1
+job_roles,job_title,Support Team Lead,1
+job_roles,job_title,CSM,1
+job_roles,job_title,Sales Development Representative,1
+job_roles,job_title,Account Executive,1
+job_roles,job_title,Sr Account Executive,1
+job_roles,canonical_title,Sales Development Representative,2
+job_roles,canonical_title,Customer Support Associate,1
+job_roles,canonical_title,Digital Marketing Specialist,1
+job_roles,canonical_title,Senior Accountant,1
+job_roles,canonical_title,Finance Manager,1
+job_roles,canonical_title,Operations Coordinator,1
+job_roles,canonical_title,Operations Analyst,1
+job_roles,canonical_title,Operations Manager,1
+job_roles,canonical_title,Marketing Coordinator,1
+job_roles,canonical_title,Marketing Manager,1
+job_roles,canonical_title,Talent Acquisition Specialist,1
+job_roles,canonical_title,IT Support Specialist,1
+job_roles,canonical_title,Systems Administrator,1
+job_roles,canonical_title,IT Manager,1
+job_roles,canonical_title,Associate Product Manager,1
+job_roles,canonical_title,Product Manager,1
+job_roles,canonical_title,Finance Analyst,1
+job_roles,canonical_title,HR Business Partner,1
+job_roles,canonical_title,Senior Support Specialist,1
+job_roles,canonical_title,HR Coordinator,1
+job_roles,canonical_title,Analytics Manager,1
+job_roles,canonical_title,Senior Data Analyst,1
+job_roles,canonical_title,BI Analyst,1
+job_roles,canonical_title,Data Analyst,1
+job_roles,canonical_title,Engineering Manager,1
+job_roles,job_level,Junior,10
+job_roles,job_level,Mid,9
+job_roles,job_level,Manager,8
+job_roles,job_level,Senior,6
+job_roles,job_level,Lead,1
+job_roles,job_level,Jr,1
+job_roles,role_family,Sales,4
+job_roles,role_family,Support,3
+job_roles,role_family,Software Engineering,3
+job_roles,role_family,Analytics,3
+job_roles,role_family,Product Management,3
+job_roles,role_family,People Operations,2
+job_roles,role_family,Operations,2
+job_roles,role_family,Marketing,2
+job_roles,role_family,Engineering Leadership,1
+job_roles,role_family,Sales Management,1
+job_roles,role_family,Analytics Leadership,1
+job_roles,role_family,Recruiting,1
+job_roles,role_family,Customer Success,1
+job_roles,role_family,Accounting,1
+job_roles,role_family,Finance Leadership,1
+job_roles,role_family,Operations Leadership,1
+job_roles,role_family,Marketing Leadership,1
+job_roles,role_family,IT Support,1
+job_roles,role_family,Infrastructure,1
+job_roles,role_family,IT Leadership,1
+job_roles,role_family,Finance,1
+training_records,completion_status,Completed,4096
+training_records,completion_status,In Progress,1056
+training_records,completion_status,Assigned,597
+training_records,completion_status,Complete,582
+training_records,completion_status,Not Started,415
+training_records,completion_status,Done,367
+training_records,completion_status,Dropped,231
+training_records,training_category,Onboarding,1821
+training_records,training_category,Technical,1435
+training_records,training_category,Leadership,1216
+training_records,training_category,Compliance,942
+training_records,training_category,Product,503
+training_records,training_category,Customer Experience,499
+training_records,training_category,Sales,471
+training_records,training_category,Soft Skills,457
+attendance,absence_flag,0,13283
+attendance,absence_flag,N,13074
+attendance,absence_flag,FALSE,13065
+attendance,absence_flag,No,13030
+attendance,absence_flag,Y,572
+attendance,absence_flag,TRUE,567
+attendance,absence_flag,1,538
+attendance,absence_flag,Yes,531
+attendance,absence_type,,52719
+attendance,absence_type,UNKNOWN,297
+attendance,absence_type,No Show,288
+attendance,absence_type,Unpaid Leave,285
+attendance,absence_type,Sick Leave,284
+attendance,absence_type,Personal,265
+attendance,absence_type,Personal Leave,262
+attendance,absence_type,sick,260
+attrition_exit_interviews,exit_type,Voluntary,120
+attrition_exit_interviews,exit_type,VOLUNTARY,112
+attrition_exit_interviews,exit_type,voluntary,106
+attrition_exit_interviews,exit_type,Involuntary,18
+attrition_exit_interviews,exit_type,involuntary,10
+attrition_exit_interviews,exit_type,INVOLUNTARY,8
+attrition_exit_interviews,exit_reason,Better compensation,66
+attrition_exit_interviews,exit_reason,Career growth,61
+attrition_exit_interviews,exit_reason,Workload,46
+attrition_exit_interviews,exit_reason,Personal reasons,43
+attrition_exit_interviews,exit_reason,Manager relationship,42
+attrition_exit_interviews,exit_reason,Performance termination,33
+attrition_exit_interviews,exit_reason,Poor culture fit,30
+attrition_exit_interviews,exit_reason,Relocation,17
+attrition_exit_interviews,exit_reason,relocation,4
+attrition_exit_interviews,exit_reason,manager relationship,4
+attrition_exit_interviews,exit_reason,personal reasons,4
+attrition_exit_interviews,exit_reason,BETTER COMPENSATION,4
+attrition_exit_interviews,exit_reason,CAREER GROWTH,3
+attrition_exit_interviews,exit_reason,PERSONAL REASONS,3
+attrition_exit_interviews,exit_reason,WORKLOAD,3
+attrition_exit_interviews,exit_reason,workload,2
+attrition_exit_interviews,exit_reason,performance termination,2
+attrition_exit_interviews,exit_reason,career growth,2
+attrition_exit_interviews,exit_reason,better compensation,1
+attrition_exit_interviews,exit_reason,POOR CULTURE FIT,1
+attrition_exit_interviews,exit_reason,poor culture fit,1
+attrition_exit_interviews,exit_reason,PERFORMANCE TERMINATION,1
+attrition_exit_interviews,exit_reason,RELOCATION,1
+attrition_exit_interviews,rehire_eligible,Yes,124
+attrition_exit_interviews,rehire_eligible,TRUE,108
+attrition_exit_interviews,rehire_eligible,1,106
+attrition_exit_interviews,rehire_eligible,0,16
+attrition_exit_interviews,rehire_eligible,No,13
+attrition_exit_interviews,rehire_eligible,FALSE,7

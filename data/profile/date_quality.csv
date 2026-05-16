@@ -1,0 +1,12 @@
+table_name,column_name,blank_count,invalid_date_count,valid_date_count,min_date,max_date
+employees,date_of_birth,26,3,1871,1900-01-01,2014-08-27
+employees,hire_date,0,5,1895,1900-01-01,2026-12-24
+salaries,effective_date,0,17,5115,1900-01-01,2026-12-01
+performance_reviews,review_date,0,19,4413,1900-01-01,2026-11-01
+satisfaction_surveys,survey_date,0,16,3974,1900-01-01,2026-10-03
+training_records,start_date,0,21,7323,1900-01-01,2026-12-02
+training_records,completion_date,2732,9,4603,1900-01-01,2026-11-05
+attendance,attendance_date,62,51,54547,1900-01-01,2026-11-02
+attrition_exit_interviews,exit_date,0,0,374,1900-01-01,2026-11-01
+department_history,start_date,0,3,2120,2014-01-01,2026-11-01
+department_history,end_date,1521,0,602,2014-09-27,2026-04-18

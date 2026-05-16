@@ -1,0 +1,88 @@
+table_name,column_name,blank_count,blank_pct,unique_values,sample_values
+departments,department_id,0,0.0,10,1 | 2 | 3 | 4 | 5
+departments,department_name,0,0.0,14,Customer Support | Revenue Sales | Eng | Data & Analytics | human resources
+departments,business_unit,0,0.0,4,Client Operations | Revenue | Technology | Corporate Services
+departments,department_head,0,0.0,10,Maya Haddad | Omar Khalil | Ravi Sharma | Lina Nasser | Sara Mansour
+departments,region,0,0.0,2,MENA | Global
+departments,active_flag,0,0.0,4,Y | Yes | 1 | yes
+job_roles,job_role_id,0,0.0,34,101 | 102 | 103 | 104 | 105
+job_roles,job_title,0,0.0,35,Cust Support Agent | Senior Support Specialist | Support Team Lead | CSM | Sales Development Representative
+job_roles,canonical_title,0,0.0,34,Customer Support Associate | Senior Support Specialist | Support Team Lead | Customer Success Manager | Sales Development Representative
+job_roles,job_level,0,0.0,6,Junior | Senior | Lead | Manager | Mid
+job_roles,department_id,0,0.0,10,1 | 2 | 3 | 4 | 5
+job_roles,role_family,0,0.0,21,Support | Customer Success | Sales | Sales Management | Software Engineering
+job_roles,salary_band_min_usd,0,0.0,27,17000 | 28000 | 43000 | 52000 | 22000
+job_roles,salary_band_max_usd,0,0.0,24,26000 | 42000 | 62000 | 78000 | 36000
+employees,employee_id,0,0.0,1850,100001 | 100002 | 100003 | 100004 | 100005
+employees,first_name,0,0.0,63,Rania | Carlos | Anas | Mariam | Ahmad
+employees,last_name,0,0.0,30,Darwish | Saleh | Nasser | Mansour | Hussein
+employees,gender,1,0.05,12,Female | Male | Man | Non-binary | Prefer not to say
+employees,date_of_birth,26,1.37,1753,11/09/1991 | 1993-04-24 | 1993-03-15 | 1982/02/25 | 1999-01-28
+employees,hire_date,0,0.0,1672,2015-08-08 | 2026-02-02 | 2014-01-27 | 2025-12-12 | 30-05-2021
+employees,department_id,25,1.32,11,3 | 1 |  | 6 | 4
+employees,department_name_raw,0,0.0,58,Software Engineering | CUSTOMER SUPPORT | Information Technology | Finance | Cust Support
+employees,job_role_id,22,1.16,35,110 | 104 | 131 | 120 | 101
+employees,job_title_raw,0,0.0,96,Software Developer | Customer Success Mgr | IT Manager | Finance Analyst | customer support associate
+employees,manager_id,286,15.05,459, | 100002 | 100003 | 100010 | 100016
+employees,employment_type,0,0.0,7,Full Time | Temporary | Contract | Part-time | Intern
+employees,location,0,0.0,6,"Dubai, UAE | Amman, Jordan | Cairo, Egypt | Remote - Global | Bengaluru, India"
+employees,marital_status,285,15.0,7,Divorced | Single |  | Prefer not to say | single
+employees,education_level,196,10.32,9,Master | Diploma | MBA |  | Bachelor
+employees,status_raw,0,0.0,14,Still Working | active | Active | Current | left
+employees,remote_status,321,16.89,6, | Hybrid | Remote | On-site | hybrid
+salaries,salary_id,0,0.0,5106,500001 | 500002 | 500003 | 500004 | 500005
+salaries,employee_id,0,0.0,1850,100001 | 100002 | 100003 | 100004 | 100005
+salaries,salary_amount,31,0.6,4927,81638.89 | 84939.47 | 89251.48 | 92302.90 | 98944.26
+salaries,currency,43,0.84,8,USD | US Dollar | INR | EGP | AED
+salaries,effective_date,0,0.0,3567,08/30/2015 | 2015-10-21 | 2018-02-17 | 2018-09-05 | 2026-01-07
+salaries,bonus_amount,26,0.51,2914,2618.51 | 14314.65 | 12654.84 | 14030.36 | 6930.63
+salaries,pay_frequency,0,0.0,6,ANNUAL | Annual | Yearly | Monthly | annual
+performance_reviews,review_id,0,0.0,4432,700001 | 700002 | 700003 | 700004 | 700005
+performance_reviews,employee_id,0,0.0,1768,100001 | 100003 | 100004 | 100005 | 100006
+performance_reviews,review_date,0,0.0,2678,02/17/2026 | 2024-10-07 | 04/14/2026 | 2026-04-25 | 2023-03-29
+performance_reviews,performance_score,10,0.23,335,3.22 | 4.55 | 3.29 | 2.63 | 4.57
+performance_reviews,manager_score,88,1.99,370,2.65 | 4.42 | 3.58 | 1.41 | 4.19
+performance_reviews,goals_met_percentage,70,1.58,814,50.6 | 83.3 | 76.0 | 43.6 | 118.4
+performance_reviews,promotion_recommended,0,0.0,6,FALSE | 0 | No | TRUE | Yes
+performance_reviews,reviewer_id,0,0.0,887,100988 | 100002 | 101545 | 100575 | 100852
+satisfaction_surveys,survey_id,0,0.0,3990,900001 | 900002 | 900003 | 900004 | 900005
+satisfaction_surveys,employee_id,0,0.0,1571,100001 | 100002 | 100003 | 100005 | 100006
+satisfaction_surveys,survey_date,0,0.0,2335,"Oct 15, 2023 | 04/04/2026 | 2026-04-10 | 2026-04-19 | 2026-04-23"
+satisfaction_surveys,satisfaction_score,7,0.18,8,4 | 2 | 3 | 5 | 1
+satisfaction_surveys,engagement_score,103,2.58,6,4 | 3 | 2 |  | 5
+satisfaction_surveys,work_life_balance_score,106,2.66,6,3 | 4 |  | 5 | 2
+satisfaction_surveys,manager_relationship_score,110,2.76,6,4 | 3 |  | 2 | 5
+satisfaction_surveys,career_growth_score,103,2.58,6,3 | 2 | 4 | 5 | 
+satisfaction_surveys,compensation_satisfaction_score,110,2.76,6,4 | 2 | 3 | 5 | 1
+training_records,training_id,0,0.0,7344,300001 | 300002 | 300003 | 300004 | 300005
+training_records,employee_id,0,0.0,1850,100001 | 100002 | 100003 | 100004 | 100005
+training_records,program_name,0,0.0,12,New Hire Onboarding | Advanced Customer Handling | Manager Coaching Skills | Leadership Essentials | SQL for Business Analysts
+training_records,training_category,0,0.0,8,Onboarding | Customer Experience | Leadership | Technical | Product
+training_records,start_date,0,0.0,3557,"2023-12-29 | Aug 18, 2025 | 2021-03-11 | 2026-02-27 | 2023-06-30"
+training_records,completion_date,2732,37.2,2808,2024-02-01 | 27-08-2025 | 2021/04/05 | 2026-03-26 | 2023-07-02
+training_records,completion_status,0,0.0,7,Completed | Dropped | In Progress | Complete | Assigned
+training_records,training_score,2368,32.24,542,78.5 | 72.8 | 74.1 | 63.1 | 79.1
+training_records,training_hours,0,0.0,275,7.5 | 12.1 | 8.2 | 21.3 | 24.4
+attendance,attendance_id,0,0.0,54660,800001 | 800002 | 800003 | 800004 | 800005
+attendance,employee_id,0,0.0,1587,100001 | 100002 | 100003 | 100004 | 100006
+attendance,attendance_date,62,0.11,187,"09/03/2025 | 2025-09-17 | 2025-09-25 | 2025-09-29 | Oct 01, 2025"
+attendance,scheduled_hours,0,0.0,3,7.5 | 8.0 | 9.0
+attendance,worked_hours,116,0.21,67,7.7 | 7.0 | 0.0 | 8.7 | 8.8
+attendance,absence_flag,0,0.0,8,N | FALSE | 1 | 0 | No
+attendance,absence_type,52719,96.45,8, | UNKNOWN | No Show | Personal Leave | sick
+attendance,late_minutes,149,0.27,8,0 | 45 | 10 | 5 | 15
+attrition_exit_interviews,exit_id,0,0.0,374,400001 | 400002 | 400003 | 400004 | 400005
+attrition_exit_interviews,employee_id,0,0.0,354,100005 | 100007 | 100015 | 100018 | 100019
+attrition_exit_interviews,exit_date,0,0.0,342,2024/08/07 | 2025-02-27 | 2024-03-24 | 2021-09-10 | 2025/06/17
+attrition_exit_interviews,exit_type,0,0.0,6,voluntary | Involuntary | VOLUNTARY | Voluntary | involuntary
+attrition_exit_interviews,exit_reason,0,0.0,23,Poor culture fit | Performance termination | Better compensation | Manager relationship | Career growth
+attrition_exit_interviews,rehire_eligible,0,0.0,6,1 | No | Yes | TRUE | 0
+attrition_exit_interviews,exit_interview_score,17,4.55,8,5 | 1 | 3 | 4 | 2
+attrition_exit_interviews,comments,0,0.0,8,Employee felt the culture did not match expectations. | Employment ended due to sustained performance issues. | Employee cited stronger pay package from another employer. | Employee mentioned lack of manager support and communication. | Employee reported limited advancement opportunities.
+department_history,history_id,0,0.0,2123,600001 | 600002 | 600003 | 600004 | 600005
+department_history,employee_id,0,0.0,1850,100001 | 100002 | 100003 | 100004 | 100005
+department_history,department_id,0,0.0,10,3 | 1 | 2 | 9 | 6
+department_history,job_role_id,0,0.0,34,110 | 104 | 106 | 131 | 120
+department_history,start_date,0,0.0,1860,2015-08-08 | 02-02-2026 | 2014-01-27 | 01/06/2016 | 2025-12-12
+department_history,end_date,1521,71.64,556," | 2016-01-05 | 2024/08/07 | 2016-08-25 | Feb 27, 2025"
+department_history,change_reason,73,3.44,8,Original Assignment | Lateral Transfer | Initial Hire | Manager Request | Promotion
