@@ -373,8 +373,6 @@ HR-Workforce-Attrition-Analysis/
 ├── powerbi/
 │   └── HR_Dashboard.pbix
 │
-├── presentation/
-│   └── HR_Analytics_Executive_Findings.pptx
 │
 ├── images/
 │   ├── dashboard_overview.png
