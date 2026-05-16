@@ -126,18 +126,18 @@ hr_analytics_project/
 │       └── cleaning_summary.csv
 │
 ├── notebooks/
-│   ├── 01_data_quality_profile.ipynb  # Profiling: nulls, dates, numerics, categories
-│   └── 02_clean_hr_data_FIXED.ipynb   # Cleaning: standardization, normalization, export
+│   ├── 001_data_quality_profile.ipynb  # Profiling: nulls, dates, numerics, categories
+│   └── 002_clean_hrdata.ipynb   # Cleaning: standardization, normalization, export
 │
 ├── sql/
-│   ├── 01_CREATE_IMPORT_VALIDATE_FIXED.SQL   # Schema, COPY, FK, indexes, 12 validation checks
-│   └── 02_HR_BUSINESS_ANALYSIS_FIXED.SQL     # 16 business queries across 7 analytical sections
+│   ├── 001_CREATE_IMPORT_VALIDATE.SQL   # Schema, COPY, FK, indexes, 12 validation checks
+│   └── 002_HR_BUSINESS_ANALYSIS.SQL     # 16 business queries across 7 analytical sections
 │
 ├── dashboard/
 │   └── HR_Analytics_Dashboard.pbix
 │
 ├── presentation/
-│   └── HR_Analytics_Executive_Findings_FINAL.pptx
+│   └── HR_Analytics_Executive_Findings.pptx
 │
 ├── images/                           # Dashboard screenshots for README
 │   ├── dashboard_overview.png
@@ -406,26 +406,26 @@ Soft Skills leads at 72.0% but Customer Experience lags at 64.9% — a 7.1 perce
 
 **Step 1 — Run the profiling notebook**
 ```
-notebooks/01_data_quality_profile.ipynb
+notebooks/001_data_quality_profile.ipynb
 ```
 Update `RAW_DIR` and `PROJECT_DIR` at the top. Outputs 5 CSV reports to `data/profile/`.
 
 **Step 2 — Run the cleaning notebook**
 ```
-notebooks/02_clean_hr_data_FIXED.ipynb
+notebooks/002_clean_hrdata.ipynb
 ```
 Update `RAW_DIR` and `PROJECT_DIR`. Outputs 10 clean CSVs to `data/clean/`. Check the pay_frequency verification print — all groups should show similar median `annual_salary_usd` (~$33K–$50K).
 
 **Step 3 — Create the database and import**
 ```sql
 -- Run in pgAdmin, Valentina Studio, or psql
-01_CREATE_IMPORT_VALIDATE_FIXED.SQL
+001_CREATE_IMPORT_VALIDATE.SQL
 ```
 Update the `COPY` paths to match your `data/clean/` directory. Run all 12 validation checks in Section 6 — confirm 0 duplicate PKs and 0 FK violations before proceeding.
 
 **Step 4 — Run business analysis**
 ```sql
-02_HR_BUSINESS_ANALYSIS_FIXED.SQL
+002_HR_BUSINESS_ANALYSIS.SQL
 ```
 Run all 16 queries against the `silver` schema. Read each query's insight comment alongside the results.
 
@@ -452,12 +452,12 @@ Connect to your local PostgreSQL `silver` schema. Refresh all data. All 5 pages 
 
 | File | Description |
 |---|---|
-| `01_data_quality_profile.ipynb` | Profiling notebook — 5 structured report outputs |
-| `02_clean_hr_data_FIXED.ipynb` | Cleaning notebook — pay frequency normalization, 10 clean CSVs |
-| `01_CREATE_IMPORT_VALIDATE_FIXED.SQL` | Schema DDL, COPY import, FK constraints, 17 indexes, 12 validation checks |
-| `02_HR_BUSINESS_ANALYSIS_FIXED.SQL` | 16 business queries across 7 sections — advanced SQL directly on Silver |
+| `001_data_quality_profile.ipynb` | Profiling notebook — 5 structured report outputs |
+| `002_clean_hr_data.ipynb` | Cleaning notebook — pay frequency normalization, 10 clean CSVs |
+| `001_CREATE_IMPORT_VALIDATE.SQL` | Schema DDL, COPY import, FK constraints, 17 indexes, 12 validation checks |
+| `002_HR_BUSINESS_ANALYSIS.SQL` | 16 business queries across 7 sections — advanced SQL directly on Silver |
 | `HR_Analytics_Dashboard.pbix` | 5-page Power BI dashboard — filter-linked, decision-flow structure |
-| `HR_Analytics_Executive_Findings_FINAL.pptx` | Executive findings presentation |
+| `HR_Analytics_Executive_Findings.pptx` | Executive findings presentation |
 
 ---
 
