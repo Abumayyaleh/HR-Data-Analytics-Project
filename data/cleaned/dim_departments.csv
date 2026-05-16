@@ -1,0 +1,11 @@
+department_id,department_name,business_unit,department_head,region,active_flag
+1,Customer Support,Client Operations,Maya Haddad,Mena,True
+2,Sales,Revenue,Omar Khalil,Mena,True
+3,Engineering,Technology,Ravi Sharma,Global,True
+4,Data & Analytics,Technology,Lina Nasser,Global,True
+5,Human Resources,Corporate Services,Sara Mansour,Mena,True
+6,Finance,Corporate Services,George Khoury,Mena,True
+7,Operations,Client Operations,Fatima Rahman,Mena,True
+8,Marketing,Revenue,Daniel Wilson,Global,True
+9,IT Support,Technology,Tariq Awad,Global,True
+10,Product,Technology,Priya Singh,Global,True
