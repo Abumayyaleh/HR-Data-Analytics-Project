@@ -16,8 +16,6 @@
 | Talent & Training | ![Talent & Training](images/talent_training.png) |
 | HR Action Plan | ![HR Action Plan](images/hr_action_plan.png) |
 
-> Export each Power BI page as PNG (File → Export → Export to PNG) and place files in `images/`. GitHub renders them inline.
-
 ---
 
 ## Key Findings
