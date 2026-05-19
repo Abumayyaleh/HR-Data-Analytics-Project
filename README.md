@@ -131,11 +131,6 @@ hr_analytics_project/
 │   ├── 01_CREATE_IMPORT_VALIDATE.SQL   # Schema, COPY, FK, indexes, 12 validation checks
 │   └── 02_HR_BUSINESS_ANALYSIS.SQL     # 16 business queries across 7 analytical sections
 │
-├── dashboard/
-│   └── HR_Analytics_Dashboard.pbix
-│
-├── presentation/
-│   └── HR_Analytics_Executive_Findings.pptx
 │
 ├── images/                           # Dashboard screenshots for README
 │   ├── dashboard_overview.png
@@ -144,7 +139,6 @@ hr_analytics_project/
 │   ├── talent_training.png
 │   └── hr_action_plan.png
 │
-└── README.md
 ```
 
 ---
